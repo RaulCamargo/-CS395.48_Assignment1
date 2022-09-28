@@ -21,3 +21,22 @@ th, td{
 figcaption{
     text-align: center;
 }
+
+hr{
+    width: 65%;
+    height: 5px;
+    border: none;
+    background-color: #000;
+}
+
+h3{
+
+    font-style: italic;
+}
+
+p{
+    margin-left: 20px;
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
