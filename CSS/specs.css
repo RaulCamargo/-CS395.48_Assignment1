@@ -40,3 +40,9 @@ p{
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+button{
+    padding: 10px 20px;
+    text-align: center;
+    font-size: large;
+}
