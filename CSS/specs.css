@@ -46,3 +46,8 @@ button{
     text-align: center;
     font-size: large;
 }
+
+#home{
+    display: inline-block;
+    float: right;
+}
